@@ -1,6 +1,6 @@
 # Naukri.com - Clone
 
-<img src="https://lh3.googleusercontent.com/zyVawGkrNqTVDv1h2qrPcFty0ARE-tkuVadf3wo7m0LwLJuHWbHxQZsboLRX9q6rLkmHzA=s170">
+<img width="200px" src="https://content3.jdmagicbox.com/comp/mumbai/j7/022pxx22.xx22.170821125442.b8j7/catalogue/naukri-com-online-placement-services-oyx4l.jpg?clr=104c56">
 
 ## Team members:
 1. Rajashree Chakraborty
